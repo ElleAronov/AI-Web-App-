@@ -1,0 +1,7 @@
+streamlit==1.15.0
+transformers==4.28.0
+beautifulsoup4==4.11.1
+requests==2.26.0
+plotly==5.3.1
+wordcloud==1.8.1
+pdfkit==1.0.0
